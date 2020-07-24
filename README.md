@@ -1,1 +1,1 @@
-# SnapPea
+# Snap-Pea
