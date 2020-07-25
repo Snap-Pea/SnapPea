@@ -1,2 +1,1 @@
-documentation:
-- any: ['**/*.md']
+documentation: 'testfile'
