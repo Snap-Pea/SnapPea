@@ -1,5 +1,5 @@
 documentation:
-  - any: ["*.md"]
+  - any: ["**/*.md"]
 
 devops:
-  - any: [".github/*"]
+  - any: ["/.github/**"]
