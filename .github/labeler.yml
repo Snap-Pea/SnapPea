@@ -1,1 +1,5 @@
-documentation: 'testfile'
+documentation:
+- any: ['**/*.md']
+
+devops:
+- any: ['**/.github/**']
