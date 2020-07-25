@@ -1,3 +1,5 @@
 documentation:
   - any: ["*.md"]
 
+devops:
+  - any: [.github/*]
